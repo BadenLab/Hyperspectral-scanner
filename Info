@@ -1,0 +1,8 @@
+
+Hyperspectal scanner as described in Nevala and Baden 2018, bioRxiv
+
+Files:
+Scanner_empty.pxp - IgorPro file comprising all arrays required for analysis (opsin templates and scan paths)
+Scanner_v15.ipf - IgorPro script file of the analysis routines
+servo7.ino - Arduino script to control the scanner
+3D printed parts - 3D printed parts :D
