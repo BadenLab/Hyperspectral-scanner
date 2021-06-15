@@ -79,7 +79,7 @@ contributors:                              # recommended
 #    affiliation: [value]                   # text
 #    email: [value]                         # email address
 
-image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-019-47220-6/MediaObjects/41598_2019_47220_Fig1_HTML.png?as=webp                             # recommended | absolute or relative path
+image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-019-47220-6/MediaObjects/41598_2019_47220_Fig1_HTML.png                          # recommended | absolute or relative path
 
 version: 1.0                           # text
 
