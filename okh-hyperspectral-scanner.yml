@@ -62,23 +62,19 @@ contact:
       user-handle: "@nnevala"                 # text
 
 contributors:                              # recommended
-  #-name: Noora Nevala                           # text
-  #-affiliation: University of Sussex                     # text
-  #-email: N.Nevala@sussex.ac.uk                           # email address
-  #-social:
-  #  - platform: Twitter                    # text
-  #    user-handle: "@nnevala"                 # text
-
-  name: Tom Baden                            # text
-  affiliation: University of Sussex                     # text
-  email: t.baden@sussex.ac.uk                           # email address
-  social:
-    - platform: Twitter                    # text
-      user-handle: "@NeuroFishh"                 # text
-#  - name: [contributor 1]                  # text
-#    affiliation: [value]                   # text
-#    email: [value]                         # email address
-
+  #- name: Noora Nevala                           # text
+  #  affiliation: University of Sussex                     # text
+  #  email: N.Nevala@sussex.ac.uk                           # email address
+  #  social:
+  #    - platform: Twitter                    # text
+  #      user-handle: "@nnevala"                 # text
+  - name: Tom Baden                            # text
+    affiliation: University of Sussex                     # text
+    email: t.baden@sussex.ac.uk                           # email address
+    social:
+      - platform: Twitter                    # text
+        user-handle: "@NeuroFishh"                 # text
+        
 image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-019-47220-6/MediaObjects/41598_2019_47220_Fig1_HTML.png                          # recommended | absolute or relative path
 
 version: 1.0                           # text
